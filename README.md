@@ -16,8 +16,11 @@ Run
 and try these links:
 
 [http://127.0.0.1:5000/api/v1/resources/books/all](http://127.0.0.1:5000/api/v1/resources/books/all)
+
 [http://127.0.0.1:5000/api/v1/resources/books?author=Connie+Willis](http://127.0.0.1:5000/api/v1/resources/books?author=Connie+Willis)
+
 [http://127.0.0.1:5000/api/v1/resources/books?author=Connie+Willis&published=1993](http://127.0.0.1:5000/api/v1/resources/books?author=Connie+Willis&published=1993)
+
 [http://127.0.0.1:5000/api/v1/resources/books?published=2010](http://127.0.0.1:5000/api/v1/resources/books?published=2010)
 
 #### You can change, combine or remove "id", "published" and "author" to get different respond.
